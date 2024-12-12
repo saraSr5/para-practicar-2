@@ -1,5 +1,7 @@
 package com.es.examen;
 
+import java.util.Vector;
+
 public class Matricula {
     Vector<Asignatura> vectorAsignaturas;
 
